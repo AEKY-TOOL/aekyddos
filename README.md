@@ -1,2 +1,2 @@
 # aekyddos
-ddos toolu
+linux,windows.termux terminal destekler
